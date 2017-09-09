@@ -1,2 +1,7 @@
-# React-Sample-App
-It is react.js Sample test app.
+### Usage
+```
+npm install
+npm start
+
+open http://localhost:5050
+```

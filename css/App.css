@@ -1,0 +1,13 @@
+.overlay-loader {
+    position: fixed;
+    background: rgba(0,0,0,.8);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    max-width: 100%;
+    background-image:url(../images/Spin.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
